@@ -1,9 +1,8 @@
 # spam_mail
 Simple ML spam detector with multinomial NB classifier for tinkering with sets 
 
-Not complete detection model
-
-Text preprocessing cleaned and finalized
+- Not complete detection model
+- Text preprocessing cleaned and finalized
 
 Python dependencies:
 - Natural language toolkit, Pandas, Scikit-learn (for cleaning email content, modeling, and evaluation)
