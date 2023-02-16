@@ -1,7 +1,7 @@
 # spam_mail
-ML spam detector with multinomial NB classifier for tinkering with sets from Kaggle.
+Simple ML spam detector with multinomial NB classifier for tinkering with sets 
 
-Not a completed detection system, however I am tired of brand emails
+Not complete detection model
 
 Python dependencies:
 - Natural language toolkit, Pandas, Scikit-learn (for cleaning email content, modeling, and evaluation)
